@@ -4,5 +4,5 @@ Research Challenges
 - Emotion detection
 - Empathy
 - Flow Maintainance
-- Interesting and meaningful responces
+- Interesting and meaningful responses
 - Dialogue Generation
