@@ -5,4 +5,4 @@ Research Challenges
 - Empathy
 - Flow Maintainance
 - Interesting and meaningful responses
-- Dialogue Generation
+- Dialogue Generation via Graph Neural Network
